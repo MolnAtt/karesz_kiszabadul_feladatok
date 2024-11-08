@@ -23,8 +23,8 @@ namespace Karesz
 			{
 				// IDE ÍRD AZ UTASÍTÁSOKAT!
 
-				
 
+				Lépj();
 
 
 			};
